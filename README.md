@@ -1,6 +1,6 @@
 # kmailMessageDarkMode
 
-**This project [has moved](https://github.com/ksandom/colouredWeb/tree/master/apps/kmail) to be included in the colouredWeb project**
+**This project [has moved](https://github.com/ksandom/colouredWeb/tree/master/apps/kmail) to be included in the colouredWeb project.**
 
 Dark mode (themeS) for recieved messages in KMail.
 
